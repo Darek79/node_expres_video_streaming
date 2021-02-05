@@ -1,0 +1,18 @@
+{
+  "name": "express_video_stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DK",
+  "license": "ISC",
+  "dependencies": {
+    "compress": "^0.99.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "node-sass": "^4.14.1"
+  }
+}
